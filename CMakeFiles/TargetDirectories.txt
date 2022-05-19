@@ -1,0 +1,3 @@
+C:/Users/seano/Downloads/xcube2d-master/xcube2d/CMakeFiles/MyGame.dir
+C:/Users/seano/Downloads/xcube2d-master/xcube2d/CMakeFiles/ALL_BUILD.dir
+C:/Users/seano/Downloads/xcube2d-master/xcube2d/CMakeFiles/ZERO_CHECK.dir
